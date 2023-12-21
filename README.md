@@ -1,16 +1,8 @@
-# instagram_ui_clone
+# Flutter Instagram Clone
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/Aabis-Ahmed-Hassan/instagram_ui_clone/assets/149153919/d9fc6347-94f3-45c8-8ca3-b09dc3a2642b
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I just wrapped up a Flutter project, an Instagram Clone! 📱✨ I used Flutter to craft a user-friendly UI, paying close attention to layout and colors. 🎨💻
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
